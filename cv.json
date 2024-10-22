@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "William Espinoza García Javier",
+    "label": "Software Developer & UX UI Designer",
+    "image": "https://avatars.githubusercontent.com/u/131618521?s=400&u=3ef3e67e245ef5827d3f95b6acc1b53c09f913e1&v=4",
+    "email": "espinozaw657@gmail.com",
+    "phone": "(507) 6243-9473",
+    "url": "https://portfolio-william0304.netlify.app/",
+    "summary": "Desarrollador especializado en front-end con conocimientos en back-end y experiencia en diseño UX/UI. Enfocado en crear interfaces intuitivas y eficientes, combinando diseño y funcionalidad para ofrecer soluciones atractivas y centradas en el usuario.",
+    "location": {
+      "address": "",
+      "postalCode": "06030",
+      "city": "Los Santos",
+      "countryCode": "PA",
+      "region": "Panamá"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "willpower04",
+        "url": "https://x.com/willpower042"
+      },
+      {
+        "network": "GitHub",
+        "username": "Willpower0304",
+        "url": "https://github.com/Willpower0304"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "William Espinoza",
+        "url": "https://www.linkedin.com/in/william-espinoza-7687722ab/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "summary": "Aunque no cuento con experiencia laboral formal, he trabajado en diversos proyectos personales y colaborativos que me han permitido desarrollar habilidades sólidas en front-end, back-end y diseño UX/UI. He aplicado mis conocimientos en tecnologías como HTML, CSS, JavaScript, frameworks modernos y herramientas de diseño, creando interfaces eficientes y visualmente atractivas. Mi enfoque se centra en la resolución de problemas, la atención al detalle y la mejora continua, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades en el desarrollo de software."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica de Panamá",
+      "area": "Licenciatura en Desarrollo de Software",
+      "startDate": "2021-04-05",
+      "endDate": "2024-12-10",
+      "score": "2.55"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Node JS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "MYSQL",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Figma",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Blender",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "InkScape",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Password Generator",
+      "isActive": true,
+      "description": "Generador de contraseñas aleatorias con 8 o más caracteres.",
+      "highlights": ["Mejora tu Contraseña", "basico JavaScript"],
+      "url": "https://random-generator-pass.netlify.app/"
+    },
+    {
+      "name": "Pandeporte Rediseño",
+      "isActive": false,
+      "description": "Rediseño de la pagina de pandeporte de Panamá.",
+      "highlights": ["Rediseño", "Reto Personal"],
+      "url": "https://pandeporte-web-example.netlify.app/"
+    },
+    {
+      "name": "Nike Web Diseño",
+      "isActive": false,
+      "description": "Pagina web de ropa de la marca NIKE.",
+      "highlights": ["Ecommerce Basico", "Tailwind CSS, React JS"],
+      "url": "https://nike-example.netlify.app/"
+    },
+    {
+      "name": "Pagina Minimalista",
+      "isActive": true,
+      "description": "Pagina web Minimalista hecha con React JS.",
+      "highlights": ["Minimalismo", "web responsive, React JS"],
+      "url": "https://minimalistic-website.netlify.app/"
+    }
+  ]
+}
